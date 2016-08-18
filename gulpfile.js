@@ -1,3 +1,10 @@
+/**
+ * gulpfile for magento 1/2 watcher based deployment
+ *
+ * @author    Johann Zelger <j.zelger@techdivision.com>
+ * @copyright 2016 TechDivision GmbH <core@techdivision.com>
+ */
+
 // define dependencies
 var gulp = require('gulp');
 gutil = require('gulp-util');
